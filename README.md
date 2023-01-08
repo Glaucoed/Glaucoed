@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, seja bem vindo! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glaucoed&show_icons=true&theme=dark)
 
