@@ -26,4 +26,6 @@ Ferramentas:
   ![GIT](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![TRELLO](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
   ![ZOOM](https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white)
+  
+  Contato: gesverzuthe@gmail.com
  
